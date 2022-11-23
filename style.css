@@ -1,1 +1,62 @@
-<div></div>
+.head1 {
+    font-size: 24px;
+    font-style: italic;
+    padding-top: 34px;
+    text-align: center;
+
+}
+.ПолоскаDiv {
+    background-color: lightskyblue;
+    margin-right: 100px;
+    text-align: center;
+    height: 500px;
+    
+
+}
+.ПолоскаDiv2{
+    display: flex;
+    align-items: baseline;
+    padding-left: 0px;
+}
+.myButton {
+    font-size: large;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-top: 130px;
+    height: 100px;
+    width: 100px;
+    vertical-align: middle;
+    background-color: white;
+
+    
+}
+.myButtonScr {
+    font-size: large;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    margin-top: 130px;
+    height: 100px;
+    width: 100px;
+    vertical-align: middle;
+    background-color: rgb(24, 219, 161);
+
+    
+}
+.textAreaID{
+    color: rgb(168, 209, 18);
+    height: 500px;
+     width: 500px;
+     margin-left: 50px;
+    
+}
+p {
+    text-align: center;
+}
+.result {
+    font-size: 30px;
+}
+footer {
+    background-color: bisque;
+    text-align: center;
+    margin-right: 100px;
+}
